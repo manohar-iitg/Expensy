@@ -1,16 +1,10 @@
-# expensy
+# Expensy
+* This is a Flutter application that tracks down all your expenses and gives you a net balance.
+* You can also choose the category of your expense and see them easily in the form of a list with icons on the main page.
+* The charts page shows the daily, monthly, weekly and yearly expenses in form of charts.
+* The application uses Hive, which is a NoSQL database, to store the data and syncfusion_flutter_charts for plotting the graph.
 
-Flutter Project for tracking expenses
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## UI
+<img src="https://github.com/manohar-iitg/Expensy/assets/96137651/3e8faa87-c212-4979-afd5-3d77fb1a820a" height=600, width=300>
+<img src="https://github.com/manohar-iitg/Expensy/assets/96137651/8dcd2450-fc07-4478-99f1-6b274e9e8d18" height=600, width=300>
+<img src="https://github.com/manohar-iitg/Expensy/assets/96137651/84eeb63c-2232-48a8-91b8-0c0b6fd4366c" height=600, width=300>
