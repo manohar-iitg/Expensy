@@ -26,7 +26,7 @@ The navigation bar has three icons -
 * The charts only spline if the data is available and hence if the data for only two days is available, it plots that and the graph may feel a bit compressed than usual. This will be resolved in the further updates.
 
 ## Add Data Page
-* The page has 5 entried to be made - Category, Description, Amount, Income/Expense, Date
+* The page has 5 entries to be made - Category, Description, Amount, Income/Expense, Date
 * Category is a dropdown list which includes - Food, Entertainment, Transportation and Transfer.
 
 ## Future Plans
